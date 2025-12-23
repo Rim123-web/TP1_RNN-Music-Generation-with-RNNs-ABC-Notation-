@@ -92,3 +92,7 @@ Deux approches possibles :
 - Greedy : prend le caractère le plus probable à chaque étape
 - Sampling : échantillonne selon les probabilités et un paramètre temperature pour plus de diversité
 </pre>
+### 📝 PS
+- `TP1_RNN.docx` : le TP complet  
+- `TP1_RNN.ipynb` : le notebook avec le code et les expérimentations  
+- `Rapport_TP1_RNN.pdf` : le rapport détaillé
